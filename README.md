@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krittapat Nithikunpanit
-------------------------------------------------
-
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krittapat Nithikunpanit
 `Marketer • Strategist • Self-taught Data Analyst`
+
+I came from a Sale & Marketing background who passionated about Data Analytic, 
 
 * 🌍  I'm based in Bangkok - Samutprakarn, Thailand
 * ✉️  You can contact me at [k.nithikunpanit@gmail.com](mailto:k.nithikunpanit@gmail.com)
-* 🧠  I'm learning Python, Java Script and more
+* 🧠  I'm currently learning Python, Java Script and more
 
 ### Skills
 
