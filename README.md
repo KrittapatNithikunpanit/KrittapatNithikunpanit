@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Bangkok - Samutprakarn, Thailand
 * ✉️  You can contact me at [k.nithikunpanit@gmail.com](mailto:k.nithikunpanit@gmail.com)
-* 🧠  I'm currently learning Website and API development and more
+* 🧠  I'm currently learning Java Script for Web development, API, Stock trading system and more
 
 ### Skills
 
